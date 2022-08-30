@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "753572069805",
+    "project_id": "versesoflifetest",
+    "storage_bucket": "versesoflifetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753572069805:android:740e9ed3f6b4349a552124",
+        "android_client_info": {
+          "package_name": "com.SDG.VersesofLife_ver02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753572069805-585p6p31m8dsmgjlb66mqm9proi1pi8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SDG.VersesofLife_ver02",
+            "certificate_hash": "80d551bcf107242c93e3983f73e736c718315a41"
+          }
+        },
+        {
+          "client_id": "753572069805-1r57okn5r4g861pslr614oaqgifm81q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaIC88dRQAlaZIYqWLsXZjBrHWEVxlc48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753572069805-1r57okn5r4g861pslr614oaqgifm81q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
